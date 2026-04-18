@@ -17,6 +17,15 @@
     margin: 0.5em;
     border-radius: 2em;
     border: 0.3em solid #333;
+    
+}
+#outputShell p{
+    margin: 0.5em 1em;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgb(66, 64, 64);
+    border-radius: 2em;
+    padding: 0.5em 1em;
 }
 
 form{
@@ -24,7 +33,7 @@ form{
     background-color: rgb(29, 29, 29);
     margin: 0.5em;
     width: calc(100% - 1em);
-    color: white;
+    color: rgb(235, 235, 235);
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
