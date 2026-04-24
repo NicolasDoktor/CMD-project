@@ -35,4 +35,13 @@ minimálně jeden řízený objekt,
 možnost dotazovat se na stav objektu,  
 možnost měnit stav objektu  
 
+## Technologie:
+Javascript  
+HTML  
+CSS  
+Markdown  
+Json
+
+### Obrázky:
+
 ![Příkad1](image.png)
